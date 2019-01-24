@@ -1,0 +1,2 @@
+# Unity-MotionBuilder
+是MotionBuilder添加动捕素材之后形成的动作文件，加上3DMax的模型创建和Maya的骨骼添加刷权重，配合Unity的摄像机镜头运动和镜头效果得到的最终成品
